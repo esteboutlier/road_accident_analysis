@@ -1,5 +1,9 @@
 # Road Accident Data Analysis Dashboard (2021 - 2022)
 
+## 🌎 Language
+
+> 📖 [Read in English](README.md) | [Leer en Español](README_ES.md)
+
 ## 📌 Project Overview
 
 This repository contains a comprehensive, interactive Excel Data Dashboard designed to analyze historical road safety records for the years 2021 and 2022. The objective of this project is to transform raw accident records into an intuitive visual intelligence tool that allows stakeholders to identify high-risk safety profiles, track seasonal trends, and optimize emergency response allocations.
